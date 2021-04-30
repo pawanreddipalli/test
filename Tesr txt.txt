@@ -1,0 +1,5 @@
+test workedTesr txt.txt
+Test doc.docx
+Test fol/
+Fri Apr 30 19:35:42 IST 2021
+My rules
